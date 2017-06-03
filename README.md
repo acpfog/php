@@ -6,3 +6,5 @@ The result looks like a string:
 ```
 data1:20, data2:21, data3:20, data4:14, data5:22, data6:20
 ```
+
+`servers_load.php` contains examples of redirection from a web page.
